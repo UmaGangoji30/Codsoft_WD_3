@@ -1,7 +1,7 @@
 # codsoft_WD_03
-Task 2 - "Tribute Page"
+Task 3 - "Portfolio Website"
 
-In this task, you will build Tribute web page to showcase Our Freedom Fighter and achievers as a Role model.
-![3](https://github.com/UmaGangoji30/codsoft_WD_03/assets/166044189/eeec33a0-a3dd-4bf6-9f7f-c06fc9c989e3)
+In this task, you will build your personal portfolio website to showcase your skills, projects, and achievements as a web developer. Your portfolio is a reflection of your professional identity, so make it stand out with these features.
+![Uploading Screenshot 2024-06-04 180946.png…]()
 
 
